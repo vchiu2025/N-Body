@@ -15,6 +15,7 @@ Then just run the Python script:
 
 
 python nbody_simulation.py
+
 You can tweak the number of bodies, their initial positions, masses, and velocities directly in the code to see how different setups behave.
 
 # Ideas for improvement
