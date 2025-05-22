@@ -1,0 +1,6 @@
+ 2 
+ 5.0e10 
+ 0.0e00  4.5e10  1.0e04 0.0e00 1.5e30  sun.gif
+ 0.0e00 -4.5e10 -1.0e04 0.0e00 1.5e30  sun.gif
+
+A simple galaxy with 2 suns to see how their huge gravitational forces would influence each other.
